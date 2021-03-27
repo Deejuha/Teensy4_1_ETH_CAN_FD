@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2562FD-E_P
+D CAN Interface IC CAN Flexible Data Rate Transceiver
+K
+F https://componentsearchengine.com/Datasheets/2/MCP2562FD-E_P.pdf
+$ENDCMP
+#
+#End Doc Library

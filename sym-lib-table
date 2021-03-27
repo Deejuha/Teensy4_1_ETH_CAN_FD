@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Teensy)(type Legacy)(uri ${KIPRJMOD}/lib/teensy/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name MCP2562FD)(type Legacy)(uri ${KIPRJMOD}/lib/MCP2562FD-E_P/MCP2562FD-E_P.lib)(options "")(descr ""))
+  (lib (name J1B1211CDD)(type Legacy)(uri ${KIPRJMOD}/lib/J1B1211CDD/J1B1211CCD.lib)(options "")(descr ""))
+  (lib (name CON-SOCJ-2155)(type Legacy)(uri ${KIPRJMOD}/lib/CON-SOCJ-2155/CON-SOCJ-2155.lib)(options "")(descr ""))
+)
